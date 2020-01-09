@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1561490374 source:c:\users\35191\desktop\jogodogalo\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<locale.h>
+
